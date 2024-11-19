@@ -1,0 +1,9 @@
+[submodule "SVM_ML_Projects"]
+	path = SVM_ML_Projects
+	url = https://github.com/KRISHNPRIY2820/KRISHNPRIY2820.git
+[submodule "TINY_DIFFUSERS"]
+	path = TINY_DIFFUSERS
+	url = https://github.com/KRISHNPRIY2820/tiny-diffusers.git
+[submodule "YOLO_project"]
+	path = YOLO_project
+	url = https://github.com/Alimustoofaa/YoloV8-Pose-Keypoint-Classification.git
